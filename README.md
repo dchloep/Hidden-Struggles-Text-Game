@@ -35,3 +35,13 @@ I learned more about debugging and improving existing code by fixing issues with
 ## Project Purpose
 
 This game was originally created as part of my Software Engineering coursework at Southern New Hampshire University. I wanted to create something meaningful while practicing fundamental Python programming concepts. The story reflects the challenges of motherhood through a fictional adventure where the player collects tools to overcome the Crushing Weight.
+
+## Game Screenshots
+
+### Welcome Screen
+
+![Hidden Struggles Welcome Screen](Welcome%20screen%20textgame.png)
+
+### Winning the Game
+
+![Hidden Struggles Winning Screen](win%20textgame.png)
