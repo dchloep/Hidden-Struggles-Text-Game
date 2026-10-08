@@ -16,6 +16,7 @@ The goal is to collect all seven items before entering the final room. If the pl
 ## Technologies Used
 
 - Python
+- Pycharm
 
 ## How to Play
 
